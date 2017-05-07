@@ -1,9 +1,45 @@
 [
     {
-        "title": "仿聚美优品",
-        "desc": "使用的技术栈有:React+React-router+axios+redux+React-redux+Redux-thunk+SCSS 做的一个响应式的网站，与后台交互，包含登录、注册、退出功能",
+        "title": "仿聚美购物商城 首页",
+        "desc": "使用的技术栈有:php+div+css+js+mysql+laravel 做的一个响应式的网站，与后台交互，包含登录、注册、退出、轮播图功能",
         "imgName": "1",
-        "demoAddress": "resume",
+        "demoAddress": "1",
+        "codeAddress": "laravel"
+    },
+    {
+        "title": "仿聚美购物商城 列表页",
+        "desc": "使用的技术栈有:php+div+css+js+mysql+laravel 做的一个响应式的网站，与后台交互，包含商品展示、商品分页、搜索功能",
+        "imgName": "2",
+        "demoAddress": "2",
+        "codeAddress": "laravel"
+    },
+    {
+        "title": "仿聚美购物商城 详情页",
+        "desc": "使用的技术栈有:php+div+css+js+mysql+laravel 做的一个响应式的网站，与后台交互，包含商品详情、商品评价、搜索、放大镜功能",
+        "imgName": "3",
+        "demoAddress": "3",
+        "codeAddress": "laravel"
+    },
+    {
+        "title": "仿聚美购物商城 个人信息页",
+        "desc": "使用的技术栈有:php+div+css+js+mysql+laravel 做的一个响应式的网站，与后台交互，包含我的订单、个人信息、修改密码、管理收货地址功能",
+        "imgName": "4",
+        "demoAddress": "4",
+        "codeAddress": "laravel"
+    },
+    {
+        "title": "仿聚美购物商城 购物车",
+        "desc": "使用的技术栈有:php+div+css+js+mysql+laravel 做的一个响应式的网站，与后台交互，包含购物车显示、结算功能",
+        "imgName": "5",
+        "demoAddress": "5",
+        "codeAddress": "laravel"
+    },
+    {
+        "title": "仿聚美购物商城 支付页",
+        "desc": "使用的技术栈有:php+div+css+js+mysql+laravel 做的一个响应式的网站，与后台交互，包含选择商品、选择地址、支付功能",
+        "imgName": "6",
+        "demoAddress": "6",
         "codeAddress": "laravel"
     }
+
 ]
